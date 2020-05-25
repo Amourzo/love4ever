@@ -19,7 +19,7 @@ public class PhotoHandler {
     public User getPhotograph() {
         User user = new User();
         user.setName("lj,yjj");
-        user.setPhone("123");
+        user.setPhone("123456");
         return user;
     }
 }
