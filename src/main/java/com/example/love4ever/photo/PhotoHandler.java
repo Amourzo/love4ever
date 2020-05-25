@@ -18,8 +18,8 @@ public class PhotoHandler {
     @RequestMapping("/child")
     public User getPhotograph() {
         User user = new User();
-        user.setName("lj,yjj");
-        user.setPhone("123456");
+        user.setName("小周小周 辣鸡辣鸡 菜菜菜");
+        user.setPhone("cccccccccccccccccccccc");
         return user;
     }
 }
